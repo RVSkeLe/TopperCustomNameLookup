@@ -18,4 +18,4 @@ Use this to compare allocation usage before and after installing this plugin.
 
 ## Credits
 
-All credits for this Cache solution go to Preva1l
+All credits for this Cache solution go to [Preva1l](https://github.com/Topper-MC/Topper-spigot/pull/16)
