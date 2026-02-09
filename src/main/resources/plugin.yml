@@ -1,0 +1,6 @@
+name: TopperCustomNameLookup
+version: '1.0.0'
+authors: ["RV_SkeLe"]
+main: com.github.rvskele.toppercustomnamelookup.TopperCustomNameLookup
+api-version: '1.21'
+depend: [Topper]

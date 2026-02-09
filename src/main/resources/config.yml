@@ -1,0 +1,10 @@
+# Settings related to username lookup caching.
+username-cache:
+  # Maximum number of usernames to store in the cache.
+  # Higher values reduce disk lookups but use more memory.
+  # Typical servers: 3000–10000
+  max-size: 10000
+
+  # How long (in minutes) a cached username remains valid after it was last used.
+  # After this period of inactivity, the entry is evicted and will be looked up again.
+  expire-minutes: 120
